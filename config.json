@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentprocess",
+        "uuid": 9134618,
+        "checksum": "ezm2md"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
